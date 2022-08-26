@@ -22,7 +22,7 @@ yarn android
 - Android: https://drive.google.com/file/d/1cAdPBxgoFSXggjaPyQk5ozgrN2ihIag3/view?usp=sharing
 
 ## Steps taken to build this app include:
-- Install redux-tookit, note that tookit is dependent on react-redux, so you must install both; You can run this cummand to install both ```npm install @reduxjs/toolkit react-redux```
+- Install redux-tookit, note that redux-toolkit is dependent on react-redux, so you must install both; You can run this cummand to install both ```npm install @reduxjs/toolkit react-redux```
 - Set up the state manager
 - Preload you state with array of objects : Just to let the user have somthing to feel on first render.
 - 
