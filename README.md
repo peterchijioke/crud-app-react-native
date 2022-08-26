@@ -43,3 +43,6 @@ yarn android
 
 ## Screenshots
 
+![](/image1.jpg)
+![](/image2.jpg)
+
