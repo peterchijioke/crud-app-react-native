@@ -23,7 +23,7 @@ yarn android
 
 ## Steps taken to build this app include:
 - Create a react native application using ```npx react-native init crud-app```
-- Install redux-tookit, note that redux-toolkit is dependent on react-redux, so you must install both; You can run this cummand to install both ```npm install @reduxjs/toolkit react-redux```
+- Install redux-tookit, note that redux-toolkit is dependent on react-redux, so you must install both; You can run this command to install both ```npm install @reduxjs/toolkit react-redux```
 - Set up redux-toolkit for the state management: you can follow through the set up documentation at https://redux-toolkit.js.org/tutorials/quick-start
 - Create your Slices
 - Preload you state with array of objects : Just to let the user have somthing to feel on first render.
