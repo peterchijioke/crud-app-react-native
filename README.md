@@ -36,3 +36,5 @@ yarn android
 - Update quote
 - Cross platform (Android & ios)
 
+## Screenshots
+
