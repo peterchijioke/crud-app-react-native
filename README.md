@@ -6,6 +6,10 @@ This is simple quote application developed using react-native; it contains a pre
 
 * [Installation](#Installation)
 * [Alternatively download the React Native APK Test App](#Alternatively%download%the%React%Native%APK%Test%App)
+* [Steps taken to build this app include](#Steps%taken%to%build%this%app%include)
+* [Tech Stack](#Tech%Stack)
+* [Features](#Features)
+* [Screenshots](#Screenshots)
 
 ## Installation
 
