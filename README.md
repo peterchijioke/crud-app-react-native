@@ -22,7 +22,7 @@ yarn android
     
 ## Alternatively download the React Native APK Test App
 
-- [Android APK: ](#https://drive.google.com/file/d/1cAdPBxgoFSXggjaPyQk5ozgrN2ihIag3/view?usp=sharing)
+- [https://drive.google.com/file/d/1cAdPBxgoFSXggjaPyQk5ozgrN2ihIag3/view?usp=sharing](#https://drive.google.com/file/d/1cAdPBxgoFSXggjaPyQk5ozgrN2ihIag3/view?usp=sharing)
 
 ## Steps taken to build this app include:
 - Create a react native application using ```npx react-native init crud-app```
