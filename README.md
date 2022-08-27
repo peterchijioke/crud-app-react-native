@@ -5,7 +5,7 @@ This is simple quote application developed using react-native; it contains a pre
 ## Table of Contents
 
 * [Installation](#Installation)
-* [Alternatively download the React Native APK Test App](#Alternatively download the React Native APK Test App)
+* [Alternatively download the React Native APK Test App](#Alternatively%download%the%React%Native%APK%Test%App)
 
 ## Installation
 
@@ -22,7 +22,7 @@ yarn android
     
 ## Alternatively download the React Native APK Test App
 
-- [https://drive.google.com/file/d/1cAdPBxgoFSXggjaPyQk5ozgrN2ihIag3/view?usp=sharing](#https://drive.google.com/file/d/1cAdPBxgoFSXggjaPyQk5ozgrN2ihIag3/view?usp=sharing)
+- [Android APK: ](https://drive.google.com/file/d/1cAdPBxgoFSXggjaPyQk5ozgrN2ihIag3/view?usp=sharing)
 
 ## Steps taken to build this app include:
 - Create a react native application using ```npx react-native init crud-app```
