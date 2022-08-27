@@ -1,6 +1,6 @@
 # Simple Quote Application
 
-This is simple quote application developed using react-native; it contain a preloaded quotes which gives you guide and view of how it looks. The app allow users to perform CRUD operations which are : You can add a quote, Update a quote, Delete an existing quote and view quotes alredy added.
+This is simple quote application developed using react-native; it contains a preloaded quotes which gives you guide and view of how it looks. The app allow users to perform CRUD operations which are : You can add a quote, Update a quote, Delete an existing quote and view quotes alredy added.
 
 
 
